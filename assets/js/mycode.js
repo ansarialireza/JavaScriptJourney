@@ -1,2 +1,8 @@
-var name = "alireza";
-alert("Hello "+ name);
+
+function Hello ( ){
+    alert("hello")
+}
+
+// document.write("saaalaaammm")
+var names= ['alireza','mahsa','godarz'];
+var myarrey= new Array('alireza','mahsa','godarz');
